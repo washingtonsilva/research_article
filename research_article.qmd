@@ -1,0 +1,10 @@
+---
+title: "Seminário de Qualificação de Artigos Científicos"
+subtitle: "Introdução"
+author: "Prof. Washington S. da Silva"
+format: revealjs
+---
+
+
+## Introdução
+
